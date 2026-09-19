@@ -1,0 +1,19 @@
+# AI assistant working notes (should not be committed to the repo)
+CLAUDE.md
+GROK.md
+CODEX.md
+CURSOR.md
+COPILOT.md
+.ai-notes/
+ai-notes.md
+
+# Secrets - open secrets.txt.template and "Save As" secrets.txt, then add your API keys/credentials
+secrets.txt
+
+# OS / editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
